@@ -1,2 +1,2 @@
-rootProject.name = 'grails3-spring-batch-sample'
-//rootProject.name = 'grails3_spring_batch_sample' //Grail3 bug
+//rootProject.name = 'grails3-spring-batch-sample'
+rootProject.name = 'grails3_spring_batch_sample' //Grail3 bug
